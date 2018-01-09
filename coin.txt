@@ -1,2 +1,2 @@
-0.0.0.0 https://getmonero.org/
 0.0.0.0 getmonero.org
+0.0.0.0 chia-anime.tv
