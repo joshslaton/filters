@@ -1,1 +1,2 @@
 127.0.0.1 https://getmonero.org/
+127.0.0.1 getmonero.org
