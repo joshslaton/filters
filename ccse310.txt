@@ -113,12 +113,6 @@
 127.0.0.1 http://youserver.nu/
 127.0.0.1 https://www.proxfree.com/
 
-127.0.0.1 www.facebook.com
-127.0.0.1 facebook.com
-127.0.0.1 www.m.facebook.com
-127.0.0.1 m.facebook.com
-127.0.0.1 www.touch.facebook.com
-127.0.0.1 touch.facebook.com
-127.0.0.1 www.youtube.com
-127.0.0.1 youtube.com
 
+
+127.0.0.1 en-gb.facebook.com
