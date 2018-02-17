@@ -118,6 +118,7 @@
 127.0.0.1 en-gb.facebook.com
 127.0.0.1 facebook.com
 127.0.0.1 www.facebook.com
+127.0.0.1 https://www.facebook.com
 127.0.0.1 https://touch.facebook.com/
 127.0.0.1 https://mtouch.facebook.com/
 127.0.0.1 https://en-gb.facebook.com/
