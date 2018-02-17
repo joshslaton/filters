@@ -117,20 +117,10 @@
 
 127.0.0.1 en-gb.facebook.com
 127.0.0.1 facebook.com
+127.0.0.1 www.facebook.com
 127.0.0.1 youtube.com
-127.0.0.1 https://www.facebook.com/
 127.0.0.1 https://touch.facebook.com/
 127.0.0.1 https://mtouch.facebook.com/
 127.0.0.1 https://en-gb.facebook.com/login/
-127.0.0.1 https://www.youtube.com/
-127.0.0.1 https://www.rulesofsurvivalgame.com/
-127.0.0.1 www.facebook.com
-127.0.0.1 facebook.com
-127.0.0.1 www.m.facebook.com
-127.0.0.1 m.facebook.com
-127.0.0.1 www.touch.facebook.com
-127.0.0.1 touch.facebook.com
-
-127.0.0.1 generals.herokuapp.com
-127.0.0.1 y8.com
-127.0.0.1 newgrounds.com
+https://www.youtube.com/
+https://www.rulesofsurvivalgame.com/
