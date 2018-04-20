@@ -123,8 +123,6 @@
 127.0.0.1 https://mtouch.facebook.com/
 127.0.0.1 https://en-gb.facebook.com/
 
-127.0.0.1 youtube.com
-127.0.0.1 www.youtube.com
 127.0.0.1 www.rulesofsurvivalgame.com
 127.0.0.1 https://www.rulesofsurvivalgame.com/
-127.0.0.1 pesominer.me
+127.0.0.1 http://pesominer.me/
